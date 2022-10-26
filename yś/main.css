@@ -1,0 +1,38 @@
+body {
+  background-color: #e65f1e;
+}
+p {
+  font-size: 30px;
+}
+
+.pierwszy_akapit {
+  background-color: #0a998d;
+  font-family: "Times New Roman", Times, serif;
+  padding: 1em;
+  border: 3px dotted #000;
+}
+
+.drugi_akapit {
+  font-family: "Courier New", Courier, monospace;
+
+  padding: 8px;
+  border: 15px groove #000;
+}
+
+#trzeci_akapit {
+  background-color: rgb(255, 255, 255);
+  padding: 2em;
+  border: 8px dashed rgb(255, 0, 212);
+  color: #0a998d;
+}
+
+.sekcja {
+  color: #e65f1e;
+  padding: 50px;
+  border: 5px outset rgb(0, 183, 255) 0;
+}
+
+button
+{
+    size: 10px;
+}
